@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Sujal Khant
 
-### 🚀 AI Engineer | Machine Learning Enthusiast | Genrative AI
+### 🚀 AI Engineer | Machine Learning Enthusiast | Full-Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Crafting+AI+Solutions;Exploring+Deep+Learning;Turning+Ideas+into+Code" alt="Typing SVG" />
 
@@ -71,12 +71,12 @@ class SujalKhant:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujalkhant&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalkhant&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujal1035-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal1035-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalkhant&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal1035-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 ---
@@ -102,4 +102,10 @@ class SujalKhant:
 
 ---
 
+<div align="center">
 
+### 💭 *"The best way to predict the future is to invent it."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=sujalkhant&color=blueviolet&style=for-the-badge)
+
+</div>
