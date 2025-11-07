@@ -102,10 +102,4 @@ class SujalKhant:
 
 ---
 
-<div align="center">
 
-### 💭 *"The best way to predict the future is to invent it."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=sujalkhant&color=blueviolet&style=for-the-badge)
-
-</div>
