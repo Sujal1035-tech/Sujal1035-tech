@@ -76,7 +76,7 @@ class SujalKhant:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal1035-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal1035-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,javascript&custom_title=Primary%20Languages" alt="Top Languages" height="170"/>
 </div>
 
 ---
@@ -96,7 +96,7 @@ class SujalKhant:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-khant)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalkhant4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujalkhant)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujal1035-tech)
 
 </div>
 
@@ -106,6 +106,6 @@ class SujalKhant:
 
 ### 💭 *"The best way to predict the future is to invent it."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=sujalkhant&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Sujal1035-tech&color=blueviolet&style=for-the-badge)
 
 </div>
