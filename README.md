@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Sujal Khant
 
-### 🚀 AI Engineer | Machine Learning Enthusiast | Full-Stack Developer
+### 🚀 AI Engineer | Machine Learning Enthusiast | Genrative AI
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Crafting+AI+Solutions;Exploring+Deep+Learning;Turning+Ideas+into+Code" alt="Typing SVG" />
 
