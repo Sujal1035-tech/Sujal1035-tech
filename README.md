@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Professional Overview
 
-Experienced AI Engineer specializing in developing scalable machine learning solutions and intelligent systems. Passionate about leveraging cutting-edge deep learning techniques to solve complex real-world problems and deliver measurable business impact.
+I am an AI Engineer experienced in building scalable machine learning systems, deep learning models, and Generative AI workflows. I enjoy turning complex problems into practical, reliable solutions and focus on creating AI systems that deliver real value. Driven by curiosity, clean engineering practices, and continuous learning, I aim to contribute to impactful AI innovations.
 
 ```python
 class SujalKhant:
