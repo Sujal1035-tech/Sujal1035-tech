@@ -84,30 +84,6 @@ class SujalKhant:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sujal1035-tech&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal1035-tech&theme=react&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal1035-tech&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-</div>
-
----
-
-## 🎯 Areas of Expertise
-
-- **Machine Learning**: Supervised & Unsupervised Learning, Model Optimization, Feature Engineering
-- **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers, Transfer Learning
-- **Computer Vision**: Object Detection, Image Classification, Segmentation
-- **Natural Language Processing**: Text Classification, Sentiment Analysis, LLMs
-- **MLOps**: Model Deployment, Monitoring, CI/CD for ML, Docker Containerization
-- **Backend Development**: RESTful APIs, Microservices Architecture, Database Design
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
