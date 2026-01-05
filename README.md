@@ -2,7 +2,7 @@
 
 # Sujal Khant
 
-### AI Engineer | Machine Learning & Deep Learning Specialist | Generative AI | Agentic AI
+### Machine Learning & Deep Learning Specialist | Generative AI | Agentic AI
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Python+Developer;Building+Production-Ready+ML+Systems;Deep+Learning+%26+Computer+Vision;Transforming+Data+into+Intelligence)](https://git.io/typing-svg)
 
