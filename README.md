@@ -2,7 +2,7 @@
 
 # Sujal Khant
 
-### AI Engineer | Machine Learning & Deep Learning Specialist
+### AI Engineer | Machine Learning & Deep Learning Specialist | Generative AI | Agentic AI
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Python+Developer;Building+Production-Ready+ML+Systems;Deep+Learning+%26+Computer+Vision;Transforming+Data+into+Intelligence)](https://git.io/typing-svg)
 
@@ -21,42 +21,28 @@ class SujalKhant:
     def __init__(self):
         self.role = "AI Engineer"
         self.location = "Gujarat, India"
-        self.passion = "Creating AI that matters"
-        self.focus_areas = [
-            "Machine Learning Systems",
-            "Deep Learning Architectures", 
-            "Computer Vision",
-            "Generative AI & LLMs",
-            "Agentic AI Systems"
-        ]
-        self.current_goal = "Building production-grade AI solutions"
+        self.mission = "Building AI that solves real problems"
+        self.expertise = ["ML Systems", "Deep Learning", "Computer Vision", 
+                         "Generative AI", "Agentic AI"]
     
-    def get_tech_stack(self):
+    def tech_stack(self):
         return {
-            "AI & ML": [
-                "PyTorch", "TensorFlow", "Scikit-learn", 
-                "Hugging Face", "OpenCV", "Pandas", "NumPy"
-            ],
-            "Languages": ["Python", "Java", "JavaScript", "PHP", "C"],
-            "Backend": ["FastAPI", "Flask", "Django"],
-            "Frontend": ["HTML5", "CSS3", "JavaScript"],
-            "Mobile": ["Flutter", "Dart"],
-            "DevOps": ["Docker", "Linux", "Git", "CI/CD"],
-            "Databases": ["MongoDB", "MySQL", "PostgreSQL"],
-            "Tools": ["Jupyter", "VS Code", "Postman", "MLflow"]
+            "AI/ML": ["PyTorch", "TensorFlow", "Hugging Face", "LangChain", "OpenCV"],
+            "Code": ["Python", "JavaScript", "Java"],
+            "Deploy": ["FastAPI", "Docker", "AWS", "MLflow"],
+            "Data": ["MongoDB", "PostgreSQL", "Pandas"]
         }
     
-    def what_excites_me(self):
+    def currently_building(self):
         return [
-            "Large Language Models & Prompt Engineering",
-            "Building Intelligent AI Agents",
-            "Computer Vision Applications",
-            "MLOps & Production Deployment",
-            "Generative AI Solutions"
+            "🤖 LLM-powered applications",
+            "🧠 Intelligent AI agents",
+            "👁️ Computer vision solutions",
+            "🚀 Production ML systems"
         ]
     
-    def life_motto(self):
-        return "Keep learning, keep building, keep improving"
+    def motto(self):
+        return "Ship fast. Learn faster. 🚀"
 ```
 
 ---
@@ -97,6 +83,18 @@ class SujalKhant:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
+
+---
+
+## 🎯 What I'm Working On
+
+Right now, I'm diving deep into:
+- **Large Language Models**: Experimenting with prompt engineering and fine-tuning techniques
+- **Agentic AI Systems**: Building autonomous AI agents that can reason and take actions
+- **Computer Vision**: Creating practical CV applications that solve real problems
+- **MLOps**: Making sure my models don't just work on my laptop, but in production too
+
+---
 
 ## 📫 Let's Connect!
 
