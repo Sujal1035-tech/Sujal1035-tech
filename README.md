@@ -33,14 +33,6 @@ class SujalKhant:
             "Data": ["MongoDB", "PostgreSQL", "Pandas"]
         }
     
-    def currently_building(self):
-        return [
-            "🤖 LLM-powered applications",
-            "🧠 Intelligent AI agents",
-            "👁️ Computer vision solutions",
-            "🚀 Production ML systems"
-        ]
-    
     def motto(self):
         return "Ship fast. Learn faster. 🚀"
 ```
