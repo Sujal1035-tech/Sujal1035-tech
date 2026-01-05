@@ -98,18 +98,6 @@ class SujalKhant:
 
 </div>
 
----
-
-## 🎯 What I'm Working On
-
-Right now, I'm diving deep into:
-- **Large Language Models**: Experimenting with prompt engineering and fine-tuning techniques
-- **Agentic AI Systems**: Building autonomous AI agents that can reason and take actions
-- **Computer Vision**: Creating practical CV applications that solve real problems
-- **MLOps**: Making sure my models don't just work on my laptop, but in production too
-
----
-
 ## 📫 Let's Connect!
 
 I'm always excited to connect with fellow developers, AI enthusiasts, and anyone interested in collaborating on interesting projects. Feel free to reach out!
