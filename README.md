@@ -79,10 +79,9 @@ class SujalKhant:
 
 ## Current Focus
 
-- **Large Language Models**: Fine-tuning and prompt engineering for domain-specific applications
-- **Agentic AI Systems**: Developing autonomous AI agents with reasoning capabilities
-- **Computer Vision**: Building scalable CV solutions for real-world use cases
-- **MLOps**: Implementing robust deployment pipelines and monitoring systems
+- **Generative AI**: Building advanced LLM applications with RAG, fine-tuning, and prompt optimization
+- **Agentic AI Systems**: Developing autonomous AI agents with multi-step reasoning and decision-making capabilities
+- **LLM Integration**: Implementing domain-specific chatbots and intelligent assistants
 
 ---
 
