@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm Sujal, an AI Engineer passionate about building practical machine learning systems that deliver real-world impact. I specialize in deep learning, computer vision, and generative AI, with a focus on creating scalable solutions that bridge research and production.
 
@@ -39,7 +39,7 @@ class SujalKhant:
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
@@ -77,7 +77,7 @@ class SujalKhant:
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - **Large Language Models**: Fine-tuning and prompt engineering for domain-specific applications
 - **Agentic AI Systems**: Developing autonomous AI agents with reasoning capabilities
@@ -86,7 +86,7 @@ class SujalKhant:
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always open to discussing innovative projects, collaborations, and opportunities in AI and machine learning.
 
@@ -102,7 +102,7 @@ I'm always open to discussing innovative projects, collaborations, and opportuni
 
 <div align="center">
 
-### 💡 Philosophy
+### Philosophy
 
 *"Great AI systems aren't just about sophisticated algorithms—they're about creating solutions that solve real problems and deliver measurable value."*
 
