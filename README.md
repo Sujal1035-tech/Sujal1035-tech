@@ -1,116 +1,184 @@
-<div align="center">
+Readme · MD
+Copy
 
 # Sujal Khant
 
-**Machine Learning Engineer | Deep Learning | Generative AI**
+<div align="center">
+  
+### AI Engineer | Machine Learning Specialist | Deep Learning Researcher
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+ML+Practitioner;Specializing+in+Deep+Learning;Computer+Vision+%26+GenAI+Systems)](https://git.io/typing-svg)
+<p align="center">
+  <em>Transforming complex data into intelligent solutions through advanced machine learning and deep learning systems</em>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-khant-234931356)
+[![Email](https://img.shields.io/badge/-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sujalkhant4@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sujal1035-tech)
 
 </div>
 
 ---
 
-## 🎯 Overview
+## 🎓 Professional Summary
 
-I'm an AI Engineer focused on developing scalable machine learning systems and production-ready AI solutions. My work spans deep learning, computer vision, and generative AI, with a commitment to building technologies that deliver measurable impact.
+Experienced AI Engineer specializing in the design, development, and deployment of production-grade machine learning systems. With expertise spanning deep learning, computer vision, and generative AI, I focus on creating scalable, efficient solutions that bridge the gap between cutting-edge research and real-world applications.
 
-I specialize in translating complex technical concepts into practical applications, emphasizing clean architecture, robust deployment, and continuous improvement.
+**Core Competencies:**
+- End-to-end ML pipeline development and optimization
+- Deep learning architecture design and implementation
+- Computer vision and image processing systems
+- Large Language Models and Generative AI applications
+- MLOps and model deployment strategies
 
 ---
 
-## 💼 Professional Focus
+## 🛠 Technical Stack
 
-```python
-class SujalKhant:
-    def __init__(self):
-        self.role = "Machine Learning Engineer"
-        self.location = "Gujarat, India"
-        self.focus_areas = [
-            "Deep Learning Systems",
-            "Computer Vision Applications",
-            "Generative AI & LLMs",
-            "Production ML Deployment"
-        ]
-    
-    def technical_stack(self):
-        return {
-            "ML_Frameworks": ["PyTorch", "TensorFlow", "Scikit-learn"],
-            "AI_Tools": ["Hugging Face", "LangChain", "OpenCV", "MLflow"],
-            "Development": ["Python", "FastAPI", "Docker", "Git"],
-            "Data_Infrastructure": ["MongoDB", "PostgreSQL", "Pandas", "NumPy"],
-            "Cloud_Deployment": ["AWS", "Linux Server Administration"]
-        }
+### **Programming & Core Technologies**
+```
+Python  •  JavaScript  •  Java  •  SQL  •  Bash/Shell
+```
+
+### **Machine Learning & Deep Learning**
+```
+PyTorch          TensorFlow        Keras             Scikit-learn
+XGBoost          LightGBM          CatBoost          ONNX
+```
+
+### **AI & Generative Models**
+```
+Hugging Face     LangChain         OpenAI API        Anthropic Claude
+LlamaIndex       RAG Systems       Vector Databases  Fine-tuning
+```
+
+### **Computer Vision**
+```
+OpenCV           YOLO              Detectron2        Albumentations
+Pillow           Torchvision       Image Segmentation Object Detection
+```
+
+### **MLOps & Deployment**
+```
+Docker           Kubernetes        MLflow            DVC
+FastAPI          Flask             Streamlit         Gradio
+AWS              Git/GitHub        CI/CD             Model Serving
+```
+
+### **Data Engineering**
+```
+Pandas           NumPy             Polars            Apache Spark
+MongoDB          PostgreSQL        Redis             Pinecone
 ```
 
 ---
 
-## 🔧 Technical Competencies
+## 💡 Areas of Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Machine Learning
+- Supervised & Unsupervised Learning
+- Time Series Forecasting
+- Ensemble Methods
+- Model Optimization & Hyperparameter Tuning
+- Feature Engineering & Selection
+
+</td>
+<td width="50%">
+
+### 🧠 Deep Learning
+- Neural Network Architectures (CNN, RNN, LSTM, Transformers)
+- Transfer Learning & Fine-tuning
+- Model Compression & Quantization
+- Custom Layer Development
+- Training Optimization Techniques
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 👁 Computer Vision
+- Image Classification & Object Detection
+- Image Segmentation & Instance Segmentation
+- Facial Recognition Systems
+- OCR & Document Processing
+- Video Analytics
+
+</td>
+<td width="50%">
+
+### 🚀 Generative AI
+- Large Language Model Integration
+- Prompt Engineering & Optimization
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
+- Custom Chatbot Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Current Focus
+
+```mermaid
+graph LR
+    A[Research] --> B[LLM Fine-tuning]
+    A --> C[Agentic AI]
+    D[Development] --> E[MLOps Pipelines]
+    D --> F[CV Applications]
+    G[Learning] --> H[Advanced RAG]
+    G --> I[Model Optimization]
+```
+
+**Active Projects & Research:**
+- Developing autonomous AI agents with multi-step reasoning capabilities
+- Implementing advanced RAG architectures for domain-specific applications
+- Optimizing large language models for production deployment
+- Building scalable computer vision systems for real-time processing
+
+---
+
+## 🎯 Professional Philosophy
+
+> *"The true measure of an AI system isn't just its accuracy on benchmarks, but its ability to create meaningful impact in production environments. I believe in building solutions that are not only technically sophisticated but also practical, scalable, and maintainable."*
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujal1035-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-### Machine Learning & AI
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal1035-tech&layout=compact&theme=tokyonight&hide_border=true)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### Generative AI & LLMs
-
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=flat-square&logo=ai&logoColor=black)
-
-### Development & Infrastructure
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-### Data Management
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Sujal1035-tech&color=blueviolet&style=flat)
 
 </div>
 
 ---
 
-## 🚀 Current Initiatives
+## 🤝 Let's Collaborate
 
-- **Large Language Models**: Exploring fine-tuning methodologies and prompt optimization strategies
-- **Agentic AI Development**: Designing autonomous AI systems with reasoning capabilities
-- **Computer Vision Solutions**: Building scalable CV applications for practical use cases
-- **MLOps Implementation**: Establishing robust pipelines for model deployment and monitoring
+I'm always interested in discussing innovative AI projects, research collaborations, and opportunities to solve challenging problems. Whether you're working on cutting-edge ML research or building production AI systems, I'd love to connect.
 
----
-
-## 📬 Connect
-
-I welcome opportunities to collaborate on innovative AI projects and engage with the broader ML community.
+**Open to:**
+- Technical Consulting & Advisory
+- Research Collaborations
+- Open Source Contributions
+- Speaking & Workshop Opportunities
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-khant-234931356)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sujal1035-tech)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sujalkhant4@gmail.com)
+### 📫 Get In Touch
 
-</div>
-
----
-
-<div align="center">
-
-### Philosophy
-
-*Effective AI engineering balances technical sophistication with practical utility. Every implementation should serve a clear purpose and create tangible value.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sujal1035-tech&color=6366F1&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-khant-234931356)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalkhant4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujal1035-tech)
 
 </div>
