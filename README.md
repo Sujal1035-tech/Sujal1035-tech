@@ -10,7 +10,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm Sujal, an AI Engineer passionate about building practical machine learning systems that deliver real-world impact. I specialize in deep learning, computer vision, and generative AI, with a focus on creating scalable solutions that bridge research and production.
 
@@ -27,10 +27,11 @@ class SujalKhant:
     
     def tech_stack(self):
         return {
-            "AI/ML": ["PyTorch", "TensorFlow", "Hugging Face", "LangChain", "OpenCV"],
+            "AI/ML": ["PyTorch", "TensorFlow", "Hugging Face", "LangChain", 
+                     "LangGraph", "CrewAI", "OpenCV"],
             "Languages": ["Python", "JavaScript", "Java"],
             "Deployment": ["FastAPI", "Docker", "AWS", "MLflow"],
-            "Data": ["MongoDB", "PostgreSQL", "Pandas", "NumPy"]
+            "Data": ["MongoDB", "ChromaDB", "FAISS", "Pandas", "NumPy"]
         }
     
     def current_focus(self):
@@ -39,7 +40,7 @@ class SujalKhant:
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 <div align="center">
 
@@ -55,7 +56,11 @@ class SujalKhant:
 
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=googlecloud&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00C7B7?style=for-the-badge&logo=protocol&logoColor=white)
+![A2A](https://img.shields.io/badge/A2A-6366F1?style=for-the-badge&logo=robot&logoColor=white)
 ![LLMs](https://img.shields.io/badge/Large_Language_Models-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
 
 ### Development & Deployment
@@ -69,7 +74,8 @@ class SujalKhant:
 ### Databases & Tools
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=database&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0081CB?style=for-the-badge&logo=meta&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
@@ -77,7 +83,7 @@ class SujalKhant:
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 - **Generative AI**: Building advanced LLM applications with RAG, fine-tuning, and prompt optimization
 - **Agentic AI Systems**: Developing autonomous AI agents with multi-step reasoning and decision-making capabilities
@@ -85,7 +91,7 @@ class SujalKhant:
 
 ---
 
-## Let's Connect
+## 📫 Let's Connect
 
 I'm always open to discussing innovative projects, collaborations, and opportunities in AI and machine learning.
 
@@ -101,7 +107,7 @@ I'm always open to discussing innovative projects, collaborations, and opportuni
 
 <div align="center">
 
-### Philosophy
+### 💡 Philosophy
 
 *"Great AI systems aren't just about sophisticated algorithms—they're about creating solutions that solve real problems and deliver measurable value."*
 
